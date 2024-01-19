@@ -10,15 +10,14 @@ Objetivos:
 -> Povoar o banco de dados;
 -> CRUD - Create, Retrieve, Update, Delete;
 -> Tratamento de exceções.
----
+<br>
 Ferramentas Utilizadas:
 -> Spring Tools 4;
 -> Apache Tomcat;
 -> Maven;
 -> Postman;
 -> PostgreSQL.
-
----
+<br>
 Curso:  Java COMPLETO Programação Orientada a Objetos + Projetos.
 
 Link: https://www.udemy.com/share/101scA3@G8T1M_W591zuUPEamMRa4XZMyl7NUn2jUd80KAvMXJZY62pwR9hN6X366xmiXrlogA==/
