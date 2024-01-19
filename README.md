@@ -1,38 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title></title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 40px;
-            color:#fff
-        }
+ # Projeto web services com Spring Boot e JPA / Hibernate
+ Prof. Nelio Alves <br>
+ Projeto em Spring Boot feito com o objetivo de criar um sistema de web-services.
 
-        h1, h2, h3,p {
-            color: #fff;
-        }
-
-     
-
-      a{
-        color:white;
-      }
-     
-    
-    </style>
-</head>
-<body>
-
-    <h1>Projeto web services com Spring Boot e JPA / Hibernate</h1>
-    <small>Prof. Nelio Alves</small>
-    <p>Projeto em Spring Boot feito com o objetivo de criar um sistema de web-services.</p>
-
-    <h2>Objetivos:</h2>
-
+Objetivos:
 <ul>
 <li>Criar projeto Spring Boot Java;</li>
 <li>Implementar modelo de domínio;</li>
